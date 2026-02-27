@@ -33,7 +33,7 @@ LaMa 能够出色地泛化到远高于训练分辨率（256x256）的更高分�
 
 
 # LaMa 相关开发
-（欢迎通过创建 issue 分��您的论文）
+（欢迎通过创建 issue 分享您的论文）
 - https://github.com/geekyutao/Inpaint-Anything --- Inpaint Anything：Segment Anything 与图像修复的结合
 <p align="center">
   <img src="https://raw.githubusercontent.com/geekyutao/Inpaint-Anything/main/example/MainFramework.png" />
